@@ -29,5 +29,5 @@ Android開発をするのに必要。
 ### Flutter SDKの用意
 Flutterのサイトで公開されている。[[Flutter SDKのダウンロードページ]](https://docs.flutter.dev/get-started/install)  
 - PATH環境変数の追加  
-kkk
+
 ### 
