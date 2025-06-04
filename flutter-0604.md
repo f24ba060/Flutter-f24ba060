@@ -126,5 +126,5 @@ Navigator.pushNamed(
 ```
 
 ## メモ
-- chapter4まで重要！！
+- chapter4まで重要!!
 
