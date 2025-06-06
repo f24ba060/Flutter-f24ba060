@@ -127,4 +127,3 @@ Navigator.pushNamed(
 
 ## メモ
 - chapter4まで重要!!
-
